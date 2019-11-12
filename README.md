@@ -11,11 +11,11 @@ More informative semantic cues might be exploited via a multirounds chatting or 
 
 You can download the raw videos at 3fps from [here](https://drive.google.com/drive/folders/11VE_uDByvF5AkVD8QEoU5VlDlRGmsDv1).
 
-You can down load frame indexs for all training samples from [train_partition_fc_50s.txt](https://drive.google.com/open?id=1gwizfZNP0C0rvvsUb063zqc7Mr3Lq_K-).
+You can download the file with frame indexs for all training samples from [train_partition_fc_50s.txt](https://drive.google.com/open?id=1gwizfZNP0C0rvvsUb063zqc7Mr3Lq_K-).
 
-You can down load frame indexs for all validation samples from [val_partition_fc_50s.txt](https://drive.google.com/open?id=172qtP7MrZNg6ZmWyEFeFzfCBydjYMACn).
+You can download the file with frame indexs for all validation samples from [val_partition_fc_50s.txt](https://drive.google.com/open?id=172qtP7MrZNg6ZmWyEFeFzfCBydjYMACn).
 
-You can down load frame indexs for all tesing samples from [test_partition_fc_50s.txt](https://drive.google.com/open?id=1QRcg688XksyG7Z51YnRfHv9SRi8s0yAy).
+You can download the file with frame indexs for all tesing samples from [test_partition_fc_50s.txt](https://drive.google.com/open?id=1QRcg688XksyG7Z51YnRfHv9SRi8s0yAy).
 
 You can download the full processed dataset from [Twitch-FIFA-Dataset](https://drive.google.com/open?id=1ZCovUXqLgPBZOmXNEUC9YSWJUrNl2J3v).
 
