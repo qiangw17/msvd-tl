@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python retrievalTrainAndTest.py --model_name "msvd-tl" --word_level --video_context --chat_context --use_glove
