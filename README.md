@@ -9,15 +9,25 @@ More informative semantic cues might be exploited via a multirounds chatting or 
 
 ## Dataset
 
+[the raw videos at 3fps](https://drive.google.com/drive/folders/11VE_uDByvF5AkVD8QEoU5VlDlRGmsDv1)
 
-[https://github.com/qiangw17/msvd-tl-data.git](https://github.com/qiangw17/msvd-tl-data.git)
+[train_partition_fc_50s.txt](https://drive.google.com/open?id=1gwizfZNP0C0rvvsUb063zqc7Mr3Lq_K-)
+
+[val_partition_fc_50s.txt](https://drive.google.com/open?id=172qtP7MrZNg6ZmWyEFeFzfCBydjYMACn)
+
+[test_partition_fc_50s.txt](https://drive.google.com/open?id=1QRcg688XksyG7Z51YnRfHv9SRi8s0yAy)
+
+[Twitch-FIFA-Dataset](https://drive.google.com/open?id=1ZCovUXqLgPBZOmXNEUC9YSWJUrNl2J3v)
+
+
 
 ## Train
-
 
 ```
 python retrievalTrainAndTest.py --word_level --video_context --chat_context --model_name 50s --use_glove
 ```
+
+
 
 ## Paper
 
