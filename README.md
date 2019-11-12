@@ -21,7 +21,7 @@ More informative semantic cues might be exploited via a multirounds chatting or 
 
 
 
-## Run
+## Run Code
 
 ```
 python retrievalTrainAndTest.py --word_level --video_context --chat_context --model_name 50s --use_glove
