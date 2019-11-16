@@ -34,7 +34,7 @@ python retrievalTrainAndTest.py --word_level --video_context --chat_context --mo
 Qiang Wang, Pin Jiang, Yahong Han, Zhou Zhao. ["Multi-Speaker Video Dialog with Frame-Level Temporal Localization."] AAAI, 2020. 
 ```
 @inproceedings{Wang2020,
-  author    = {Qiang Wang, Pin Jiang, Yahong Han, Zhou Zhao},
+  author    = {Qiang Wang, Pin Jiang, Zhiyi Guo, Yahong Han, Zhou Zhao},
   title     = {Multi-Speaker Video Dialog with Frame-Level Temporal Localization},
   booktitle = {AAAI},
   year      = {2020},
